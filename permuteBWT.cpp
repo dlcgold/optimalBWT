@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <cstring>
 #include <cassert>
+#include <cstdint>
 
 using std::cout;
 using std::endl;
